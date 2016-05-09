@@ -1,0 +1,2 @@
+# InitNSMutableDictionary
+NSMutableDictionary初始化方法详解
